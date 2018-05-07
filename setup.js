@@ -18,7 +18,8 @@ function check_variables() {
       "NODE_ENV",
       "PORT",
       "DB_ADDRESS",
-      "PW"
+      "PW",
+      "USER"
     ];
     let have_error = false;
    
