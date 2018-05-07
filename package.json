@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/markbarton/nodejsvariables/issues"
   },
-  "homepage": "https://github.com/markbarton/nodejsvariables#readme"
+  "homepage": "https://github.com/markbarton/nodejsvariables#readme",
+  "dependencies": {
+    "colors": "^1.2.3",
+    "dotenv": "^5.0.1",
+    "moment": "^2.22.1",
+    "winston": "^2.4.2",
+    "winston-papertrail": "^1.0.5"
+  }
 }
